@@ -69,10 +69,14 @@ CURL-UND-METHODE-HINZUFUEGEN -H "Content-Type: application/json" -d "{\"name\":\
 
 Notiert alle Lösungssätze und die verwendeten Kommandos.
 
+---
+
 ## Flussdiagramm (5 Punkte)
 1. Zeichne ein Flussdiagramm für den klassischen Anmeldeprozess auf einer Webseite. Wichtig ist, dass der Benutzer das Passwort nur dreimal eingeben kann und dann der Account für 15 Minuten gesperrt wird. Versucht die Person es nach 15 Minuten nochmals und gibt es wieder falsch ein, wird das Konto für immer gesperrt und die Person muss sich telefonisch beim Administrator melden. Diese Information soll der Nutzer von dem System bekommen.
 
 2. Implementiere das Flussdiagramm genau so wie aufgezeichnet in C++. Verwende mindestens eine Funktion in der Implementierung. Das Flussdiagramm und der Code sollen möglichst genau übereinstimmen.
+
+---
 
 ### Coding (20 Punkte)
 
@@ -87,7 +91,6 @@ Wenn eine 6 gewürfelt wird, werden dem Gegner nicht nur 6 Punkte abgezogen, son
 #### Teil 3:
 Nachdem eine 6 gewürfelt wurde, hat der Gegner die Chance, sich frei zu würfeln. Wenn er auch eine 6 würfelt, ist er frei und kann normal weiterspielen.
 
----
 
 #### Aufgabe: Teil 1
 * Zu Beginn wird nach den zwei Namen von den Spielern gefragt.
@@ -102,7 +105,6 @@ Nachdem eine 6 gewürfelt wurde, hat der Gegner die Chance, sich frei zu würfel
 * Verwendet Funktionen, wenn es Teile im Code gibt, die öfter wiederholt werden.
 * (Es wird so lange gespielt, bis eine Person kein Leben mehr hat. Dann wird ausgegeben, wer der Gewinner ist.)
 
----
 
 #### Aufgabe: Teil 2
 * Wenn eine 6 gewürfelt wird, wird der Gegner für eine Runde gesperrt.
@@ -112,13 +114,11 @@ Nachdem eine 6 gewürfelt wurde, hat der Gegner die Chance, sich frei zu würfel
 * Nachdem die Person eine Runde gesperrt war, wird der Zustand wieder auf normal gesetzt.
 * (Es wird so lange gespielt, bis eine Person kein Leben mehr hat. Dann wird ausgegeben, wer der Gewinner ist.)
 
----
 
 #### Aufgabe: Teil 3 (Bonus)
 * Wenn ein Spieler gesperrt wurde, hat dieser die Möglichkeit, sich frei zu würfeln.
     * Der gesperrte Spieler kann durch die Eingabe von 1 würfeln. Falls eine 6 gewürfelt wird, kann der Spieler normal weiterspielen, und sonst ist dieser für eine Runde gesperrt.
 * Es wird so lange gespielt, bis eine Person kein Leben mehr hat. Dann wird ausgegeben, wer der Gewinner ist.
----
 
 #### Aufgabe: GitHub
 * Erstelle ein GitHub-Repository und pushe den Code.

@@ -1,6 +1,6 @@
 ---
-title: false
-description: " "
+title: "Repetition Softwareentwicklung"
+description: "Repetition der wichtigsten Themen des Fachs Softwareentwicklung."
 ---
 # Repetition Softwareentwicklung
 

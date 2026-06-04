@@ -2,7 +2,6 @@
 title: "Repetition Softwareentwicklung"
 description: "Repetition der wichtigsten Themen des Fachs Softwareentwicklung."
 ---
-# Repetition Softwareentwicklung
 
 Repetition der wichtigsten Themen des Fachs Softwareentwicklung. Ihr habt insgesamt 6x 45 Minuten Zeit, um die Aufgaben zu lösen und Punkte zu sammeln.
 Insgesamt gibt es 60 Punkte. Die einzelnen Aufgaben müssen vor Ort abgegeben und Fragen zu den Aufgaben beantwortet werden.

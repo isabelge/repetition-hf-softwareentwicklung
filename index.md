@@ -77,7 +77,7 @@ Notiert alle Lösungssätze und die verwendeten Kommandos.
 
 ---
 
-### Coding (20 Punkte)
+## Coding (20 Punkte)
 
 Die Aufgabe ist es, eine Art „Hot Potato“-Spiel zu implementieren und den Code auf GitHub zu veröffentlichen.
 

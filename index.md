@@ -1,5 +1,5 @@
 ---
-title: " "
+title: false
 description: " "
 ---
 # Repetition Softwareentwicklung

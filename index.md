@@ -121,3 +121,13 @@ Nachdem eine 6 gewürfelt wurde, hat der Gegner die Chance, sich frei zu würfel
 
 #### Aufgabe: GitHub
 * Erstelle ein GitHub-Repository und pushe den Code.
+
+## Übungsfachabschlussprüfung (15 Punkte)
+
+Die Aufgabe ist es eine Übungsfachabschlussprüfung zu lösen. Die Übungsprüfung ist gleich aufgebaut wie die Fachabschlussprüfung, hat aber weniger Theorieaufgaben.
+
+#### Teil 1:
+Implementation C++ und UML-Diagramm.
+
+#### Teil 2:
+Theoriefragen zur Softwareentwicklung.
